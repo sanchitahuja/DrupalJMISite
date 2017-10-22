@@ -183,9 +183,11 @@ border: 2px solid #ebebe0;
 #myCarousel .container{
     height: auto;
 }
+    
     .footer-distributed .footer-left,
     .footer-distributed .footer-right{
         text-align: center;
+		
     }
 
     .footer-distributed .footer-right{
